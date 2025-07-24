@@ -1,6 +1,6 @@
 🔆 Solar Power Prediction Using Machine Learning 🔆
 
-We have developed a robust machine learning–powered system to estimate solar power generation ⚡🔋 based on key environmental and temporal features. The project combines data science, modeling, and a fully functional web application, built to support real-world use cases in energy forecasting and planning.
+I have developed a robust machine learning–powered system to estimate solar power generation ⚡🔋 based on key environmental and temporal features. The project combines data science, modeling, and a fully functional web application, built to support real-world use cases in energy forecasting and planning.
 
 📊 Input Features Used:
 The system uses a rich set of features including:

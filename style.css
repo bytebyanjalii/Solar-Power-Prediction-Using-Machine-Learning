@@ -1,0 +1,22 @@
+/* Light pastel background and clean UI */
+body {
+    background-color: #fdfdfd;
+    color: #000000;
+}
+
+.title-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.oval-title {
+    background-color: #cce6ff; /* light pastel blue */
+    color: #000000;
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-size: 24px;
+    font-weight: 600;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    font-family: 'Segoe UI', sans-serif;
+}
